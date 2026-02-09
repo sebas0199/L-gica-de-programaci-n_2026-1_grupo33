@@ -76,9 +76,9 @@ Ejemplo de formateo correcto: imprima(formatear(resultado,2))
 
 ### Material técnico
 
-- [Hoja de Trucos Logicode](material/HojaDeTrucosLogicode.pdf)
-- [Comandos Logicode](material/Comandos_Logicode.pdf)
-- [Documento General del Curso](material/Curso_Logica_de_programacion.pdf)
+- [Hoja de Trucos Logicode](material/HojaDeTrucosLogiCode (3))
+- [Comandos Logicode](material/Comandos_Logicode1)
+- [Documento General del Curso](material/Curso_Lógica_de_programación)
 
 ---
 
